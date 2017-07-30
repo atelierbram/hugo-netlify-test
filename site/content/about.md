@@ -1,14 +1,14 @@
 ---
-type: "page"
-title: "About"
-description: "about all this"
-date: 2017-07-29T18:17:50+02:00
+date: 2017-07-29T16:17:50.000Z
+title: About
+description: about all this
 draft: false
+type: page
 ---
 
 # [A Step-by-Step Guide: Victor-Hugo on Netlify](https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/)
 
-Today, let’s take a look at how to host a static website using [Hugo](https://gohugo.io/) on Netlify, including setting up continuous deployment.
+Tomorrow, let’s take a look at how to host a static website using [Hugo](https://gohugo.io/) on Netlify, including setting up continuous deployment.
 
 In this tutorial we will be using [Victor Hugo](https://github.com/netlify/victor-hugo) (a continually-maintained Hugo boilerplate) to build our static site.
 
@@ -289,4 +289,6 @@ Netlify went ahead and gave your site a temporary name. Let’s quickly update t
 ![ step 8 - pretty](https://cdn.netlify.com/7af81cfe5062746090a0fd72b6cbea5961f02627/a165c/img/blog/done-2.png)
 
 There, that’s better. Looks pretty good, huh? Wasn’t that easy? Take it a step further and setup your custom domain (Learn how to do that [here](https://www.netlify.com/blog/2016/03/14/setting-up-your-custom-domain/)). Congratulations, and thanks for using Netlify!
+
+
 
