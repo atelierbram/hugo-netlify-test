@@ -1,5 +1,7 @@
 ---
+type: "page"
 title: "About"
+description: "about all this"
 date: 2017-07-29T18:17:50+02:00
 draft: false
 ---

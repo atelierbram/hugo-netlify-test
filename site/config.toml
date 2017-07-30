@@ -1,10 +1,10 @@
 baseurl = "/"
-languageCode = "en"
+# languageCode = "en"
 title = "Strata"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+# googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
 
@@ -34,11 +34,11 @@ bio = "**I'm Strata**, a super simple<br> responsive site template freebie<br> c
 twitter = "spf13"
 github = "spf13"
 gitlab = "spf13"
-dribbble = ""
-facebook = ""
-googleplus = ""
-flickr = ""
-linkedin = ""
+# dribbble = ""
+# facebook = ""
+# googleplus = ""
+# flickr = ""
+# linkedin = ""
 
 copyright = [
   "&copy; John Doe",
@@ -148,5 +148,5 @@ weight = 5
 
 [[menu.main]]
 name = "Blog"
-url  = "post/"
+url  = "blog/"
 weight = 10
