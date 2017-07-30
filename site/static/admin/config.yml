@@ -12,7 +12,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "post"
+    folder: "content/post"
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: "page" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Page" # Used in the UI, ie.: "New Post"
-    folder: ""
+    folder: "content"
     slug: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
